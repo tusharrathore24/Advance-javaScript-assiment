@@ -1,0 +1,53 @@
+Q1. js is client side or server side scripting language ?
+ans.	JavaScript serves a dual role in web development: it can be both a client-side and a server-side scripting 	language.
+	Client-side JavaScript runs directly in the user’s web browser. When a user visits a web page, their browser 	processes the JavaScript code embedded in that page.
+	Server-side JavaScript runs on the web server itself, rather than in the user’s browser. It enables back-end 	access to databases, file systems, and other server resources.
+
+Q2. Why it is used? why it is most popular?
+ans.	JavaScript is a versatile and widely used programming language that has remained popular for several reasons:
+ Dynamic Web Content:
+	JavaScript allows you to create dynamic and interactive features on web pages
+ Client-Side Scripting:
+	JavaScript runs directly in the user’s web browser, making it a client-side scripting language
+ Versatility:
+	JavaScript can be used for a wide range of tasks: from simple form validation to complex web applications.
+ Widespread Browser Support:
+	All major web browsers support JavaScript, making it universally accessible.
+
+Q3. who was the founder of Javascript and which year is released?
+ans.	JavaScript was invented by Brendan Eich in 1995. He developed it while working at Netscape, and it quickly 	became a fundamental technology for the web. Initially called Mocha, then LiveScript, it eventually settled 	on the name JavaScript.
+
+Q4. What is the DOM?
+ans.	The DOM is an API (Application Programming Interface) that represents and interacts with HTML or XML-based 	markup language documents.
+	It provides a structured way to access and manipulate the content, structure, and style of a web page.
+	Think of it as a tree-like structure where each node represents a part of the document (such as an HTML 	element, text, or comment).
+
+Q5. How many DOM functions are there?
+ans.	document.querySelector():
+	document.querySelectorAll():
+
+Element Functions
+
+	getElementById: Retrieves an element by its ID.
+	getElementsByTagName: Retrieves a collection of elements by their tag name.
+	getElementsByClassName: Retrieves a collection of elements by their class name.
+	querySelector: Selects an element based on a CSS selector.
+	querySelectorAll: Selects a collection of elements based on a CSS selector.
+
+Property Functions
+
+	innerHTML: Gets or sets the HTML content of an element.
+	outerHTML: Gets or sets the HTML content of an element, including its tags.
+	textContent: Gets or sets the text content of an element.
+	className: Gets or sets the class name(s) of an element.
+	style: Gets or sets the styles of an element.
+
+Method Functions
+
+	appendChild: Adds a new child element to an element.
+	insertBefore: Inserts a new child element before an existing element.
+	removeChild: Removes a child element from an element.
+	replaceChild: Replaces a child element with a new one.
+	addEventListener: Attaches an event listener to an element.
+	removeEventListener: Removes an event listener from an element.
+
